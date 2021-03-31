@@ -1,26 +1,23 @@
 #+TITLE: Guilherme G. Schardong
 #+AUTHOR: Guilherme G Schardong
 #+DATE: 2021-03-31
-
+#+startup: hideblocks
+#+html_head: <link rel="stylesheet" href="stylesheet.css" type="text/css">
 #+html: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
-#+html: <div class="hide-small" id="contact"><tt>gschardong[at]puc-rio.br</tt></div>
-#+html: <div class="hide-large" id="small-contact"><tt>gschardong[at]puc-rio.br</tt></div>
+#+html: <div class="hide-small" id="contact"><tt>gschardong[at]puc[dash]rio[dot]br</tt></div>
 
 * About
 I'm currently a research collaborator at GALGOS/PUC-Rio, where I work on
-projects with Petrobras regarding well-testing and reservoir model
+projects with PETROBRAS on well-testing and reservoir model
 inference. I'm also a post-doc at Visgraf/IMPA, where I work on
 computer graphics and machine learning, with emphasis on implicit
 function reconstruction and rendering.
 * Research
 ** Publications
-*** 2020
 - Grosman, J. S., Furtado, P. H. T., Rodrigues, A. M. B., Schardong, G. G., Barbosa, S. D. J., & Lopes, H. C. V. (2020). Eras: Improving the quality control in the annotation process for Natural Language Processing tasks. Information Systems, 93, 101553. https://doi.org/10.1016/j.is.2020.101553
 - Guimaraes, C. S., Schirmer, L., Schardong, G., Barreto, A. B., & Lopes, H. (2020). Incorporating Dynamic Production-Logging Data to the Permeability-Estimation Workflow Using Machine Learning. SPE Journal, 25(05), 2765–2777. https://doi.org/10.2118/198954-PA
-*** 2019
 - Ribeiro, P. C., Schardong, G. G., Barbosa, S. D. J., de Souza, C. S., & Lopes, H. (2019). Visual exploration of an ensemble of classifiers. Computers & Graphics, 85, 23–41. https://doi.org/10.1016/j.cag.2019.08.012
 - González, S. F., Schirmer, L., Campagnolo, L. Q., Rodrigues, A. M. B., Schardong, G. G., França, R., Lana, M., Barbosa, G. D. J., Barbosa, S. D. J., Poggi, M., & Lopes, H. (2019). Visual Filtering Tools and Analysis of Case Groups for Process Discovery. In Lecture Notes in Business Information Processing (Vol. 363, pp. 303–323). https://doi.org/10.1007/978-3-030-26169-6_15
-*** 2018
 - Schardong, G. G., Rodrigues, A. M. B., Barbosa, S. D. J., & Lopes, H. (2018). Visual interactive support for selecting scenarios from time-series ensembles. Decision Support Systems, 113, 99–107. https://doi.org/10.1016/j.dss.2018.08.001
 - Schirmer, L., Quatrin Campagnolo, L., Fiol González, S., M. B. Rodrigues, A., G. Schardong, G., França, R., Lana, M., D. J. Barbosa, S., Poggi, M., & Lopes, H. (2018). Visual Support to Filtering Cases for Process Discovery. Proceedings of the 20th International Conference on Enterprise Information Systems, 38–49. https://doi.org/10.5220/0006708200380049
 * Curriculum Vitae
