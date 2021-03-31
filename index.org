@@ -1,0 +1,18 @@
+#+TITLE: Guilherme G. Schardong
+#+AUTHOR: Guilherme G Schardong
+#+DATE: 2021-03-31
+
+#+html: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
+#+html: <div class="hide-small" id="contact"><tt>gschardong_at_puc-rio.br</tt></div>
+#+html: <div class="hide-large" id="small-contact"><tt>gschardong_at_puc-rio.br</tt></div>
+
+* About
+I'm currently a research collaborator at GALGOS/PUC-Rio, where I work on
+projects with Petrobras regarding well-testing and reservoir model
+inference. I'm also a post-doc at Visgraf/IMPA, where I work on
+computer graphics and machine learning, with emphasis on implicit
+function reconstruction and rendering.
+* Research
+** Publications
+* Curriculum Vitae
+My CV, updated in 2021-03-31 is available [[file:cv.pdf][here]], as a PDF file.
