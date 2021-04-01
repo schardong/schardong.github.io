@@ -2,16 +2,23 @@
 #+AUTHOR: Guilherme G Schardong
 #+DATE: 2021-03-31
 #+startup: hideblocks
-#+html_head: <link rel="stylesheet" href="stylesheet.css" type="text/css">
+#+html_head: <meta name="referrer" content="origin">
+#+html_head: <link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 #+html: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
 #+html: <div class="hide-small" id="contact"><tt>gschardong[at]puc[dash]rio[dot]br</tt></div>
 
 * About
 I'm currently a research collaborator at GALGOS/PUC-Rio, where I work on
 projects with PETROBRAS on well-testing and reservoir model
-inference. I'm also a post-doc at Visgraf/IMPA, where I work on
+inference. I'm also a post-doc at Visgraf/IMPA, where I work no
 computer graphics and machine learning, with emphasis on implicit
 function reconstruction and rendering.
+
+* Background
+I got my Bachelor's degree in Computer Science from UFSM in 2012 and a
+Master's degree in Informatics in the same university, in 2014. In
+2018 I got my D.Sc. in Informatics at PUC-Rio, as a member of GALGOS.
+
 * Research
 ** Publications
 - Grosman, J. S., Furtado, P. H. T., Rodrigues, A. M. B., Schardong, G. G., Barbosa, S. D. J., & Lopes, H. C. V. (2020). Eras: Improving the quality control in the annotation process for Natural Language Processing tasks. Information Systems, 93, 101553. https://doi.org/10.1016/j.is.2020.101553
@@ -20,5 +27,3 @@ function reconstruction and rendering.
 - González, S. F., Schirmer, L., Campagnolo, L. Q., Rodrigues, A. M. B., Schardong, G. G., França, R., Lana, M., Barbosa, G. D. J., Barbosa, S. D. J., Poggi, M., & Lopes, H. (2019). Visual Filtering Tools and Analysis of Case Groups for Process Discovery. In Lecture Notes in Business Information Processing (Vol. 363, pp. 303–323). https://doi.org/10.1007/978-3-030-26169-6_15
 - Schardong, G. G., Rodrigues, A. M. B., Barbosa, S. D. J., & Lopes, H. (2018). Visual interactive support for selecting scenarios from time-series ensembles. Decision Support Systems, 113, 99–107. https://doi.org/10.1016/j.dss.2018.08.001
 - Schirmer, L., Quatrin Campagnolo, L., Fiol González, S., M. B. Rodrigues, A., G. Schardong, G., França, R., Lana, M., D. J. Barbosa, S., Poggi, M., & Lopes, H. (2018). Visual Support to Filtering Cases for Process Discovery. Proceedings of the 20th International Conference on Enterprise Information Systems, 38–49. https://doi.org/10.5220/0006708200380049
-* Curriculum Vitae
-My CV, updated in 2021-03-31 is available [[file:cv.pdf][here]], as a PDF file.
