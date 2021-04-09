@@ -2,6 +2,7 @@
 #+AUTHOR: Guilherme G Schardong
 #+DATE: 2021-03-31
 #+startup: hideblocks
+#+options: num:nil
 #+html_head: <meta name="referrer" content="origin">
 #+html_head: <link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 #+html: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
@@ -21,12 +22,17 @@ advised by prof. [[http://www.inf.ufsm.br/~pozzer][Cesar Pozzer]]. In 2018 I got
 at PUC-Rio, as a member of GALGOS. From 2014 to 2016 I worked as a
 developer under prof. [[http://www.inf.puc-rio.br/~celes][Waldemar Celes]] on the Reservoir Visualization
 group on Tecgraf/PUC-Rio Institute. In 2016 I started working with
-prof. [[https://www.inf.puc-rio.br/~lopes][Hélio Lopes]] (being advised by him since 2015) and was coadvised
+prof. [[https://www.inf.puc-rio.br/~lopes][Hélio Lopes]] (being advised by him since 2015) and was co-advised
 by prof. [[https://www.inf.puc-rio.br/~simone][Simone Barbosa]] during my doctorate. I'm currently on a
 part-time post-doc position supervised by prof. [[https://www.impa.br/~lvelho][Luiz Velho]] from
 Visgraf/IMPA and prof. Hélio Lopes.
 
 * Research
+My current research interests involve mainly implicit function
+reconstruction using machine learning techniques. The idea is to
+explore differential properties inherent to the function and learning
+model used to speed-up the process, or increase its precision. Below
+is a selected list of publications from the last 5 years.
 ** Publications
 - Grosman, J. S., Furtado, P. H. T., Rodrigues, A. M. B., *Schardong, G. G.*, Barbosa, S. D. J., & Lopes, H. C. V. (2020). Eras: Improving the quality control in the annotation process for Natural Language Processing tasks. Information Systems, 93, 101553. https://doi.org/10.1016/j.is.2020.101553
 - Guimaraes, C. S., Schirmer, L., *Schardong, G.*, Barreto, A. B., & Lopes, H. (2020). Incorporating Dynamic Production-Logging Data to the Permeability-Estimation Workflow Using Machine Learning. SPE Journal, 25(05), 2765–2777. https://doi.org/10.2118/198954-PA
