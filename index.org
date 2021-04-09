@@ -9,7 +9,7 @@
 #+html: <div class="hide-small" id="contact"><tt>gschardong[at]puc[dash]rio[dot]br</tt></div>
 
 * About
-I'm currently a research collaborator at GALGOS/PUC-Rio, where I work on
+I'm currently a research fellow at GALGOS/PUC-Rio, where I work on
 projects with PETROBRAS on well-testing and reservoir model
 inference. I'm also a post-doc at Visgraf/IMPA, where I work on
 computer graphics and machine learning, with emphasis on implicit
