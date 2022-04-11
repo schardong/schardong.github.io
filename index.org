@@ -6,14 +6,10 @@
 #+html_head: <meta name="referrer" content="origin">
 #+html_head: <link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 #+html: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
-#+html: <div class="hide-small" id="contact"><tt>gschardong[at]puc[dash]rio[dot]br</tt></div>
+#+html: <div class="hide-small" id="contact"><tt>guilherme[dot]schardong[at]isr[dot]uc[dot]br</tt></div>
 
 * About
-I'm currently a research fellow at GALGOS/PUC-Rio, where I work on
-projects with PETROBRAS on well-testing and reservoir model
-inference. I'm also a post-doc at Visgraf/IMPA, where I work on
-computer graphics and machine learning, with emphasis on implicit
-function reconstruction and rendering.
+I'm currently a post-doctoral fellow at [[https://www.isr.uc.pt/][Instituto de Sistemas e Robótica, polo de Coimbra]], where I work on projects with the Portuguese Mint. Up to January 2022, I was a research fellow at GALGOS/PUC-Rio, with experience on oil&gas industry from projects with PETROBRAS on well-testing and reservoir model inference. I'm also a part-time post-doc at [[https://www.visgraf.impa.br/home/][Visgraf/IMPA]], where I work on computer graphics and machine learning, with emphasis on implicit function reconstruction and rendering.
 
 * Background
 I got my Bachelor's degree in Computer Science from UFSM in 2012 and a
