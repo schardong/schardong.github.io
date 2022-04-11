@@ -26,6 +26,12 @@ h1,h2,h3 {
   right: 10%;
 }
 
+#pgpkey {
+    position: absolute;
+    top: 3.5em;
+    right: 10%;
+}
+
 @media all and (min-width: 700px) {
     .hide-large {
         display: none;
