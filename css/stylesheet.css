@@ -5,6 +5,14 @@
   border-bottom-color: lightgray;
 }
 
+html {
+  max-width: 80ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+}
+
 body {
     margin: 40px auto;
     max-width: 1650px;
@@ -16,8 +24,8 @@ body {
 }
 
 h1,h2,h3 {
-    line-height: 1.2;
-    font-weight: normal;
+    /* line-height: 1.2; */
+    font-weight: bolder;
 }
 
 #contact {
