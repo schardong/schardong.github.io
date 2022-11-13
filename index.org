@@ -3,8 +3,8 @@
 #+DATE: 2021-03-31
 #+startup: hideblocks
 #+options: num:nil toc:nil
-#+html_head: <meta name="referrer" content="origin">
-#+html_head: <link rel="stylesheet" href="css/stylesheet.css" type="text/css">
+#+html_head: <meta name="referrer" content="origin" />
+#+html_head: <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
 #+html: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
 #+html: <div class="hide-small" id="contact"><tt>guilherme[dot]schardong[at]isr[dot]uc[dot]pt</tt></div>
 #+html: <div class="hide-small" id="pgpkey"><a href="res/key.txt"><tt>6EF2 6885 8BD4 F608 58AF 4763 BC05 5498 F7E7 7E74</tt></a></div>
