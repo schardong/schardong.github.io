@@ -17,27 +17,30 @@ I got my Bachelor's degree in Computer Science from UFSM in 2012 and a Master's 
 * Research
 My current research interests involve mainly AI for Graphics and Implicit Function representation. Below is a selected list of projects and publications from the last 5 years.
 
+** MR-Net: Multiresolution sinusoidal neural networks [[[https://visgraf.github.io/mrnet-img/][Project page]]]
+#+caption: Controlling the learned frequencies of the Einstein portrait by specializing each independent stage on an L-Net and composing their results.
+#+attr_html: :width 800px
+[[file:res/mrnet-cg.png]]
+*** Authors: Hallison Paz, Daniel Perazzo, Tiago Novello, *Guilherme Schardong*, Luiz Schirmer, Vinícius da Silva, Daniel Yukimura, Fábio Chagas, Hélio Lopes, Luiz Velho
+*** Venue: Computers and Graphics (vol. 114), 2023
 ** Exploring differential geometry in neural implicits [[[https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits][Project page]]]
 #+caption: Gaussian and Mean curvatures of the Stanford Armadillo. We calculated them from a smooth neural network trained on the Armadillo mesh. Afterwards, we used the analytical formulas of the curvatures on the neural network evaluated at the mesh vertices and plotted the results as colors.
 #+attr_html: :width 800px
 [[file:res/i3d.jpeg]]
 *** Authors: Tiago Novello, *Guilherme Schardong*, Luiz Schirmer, Vinicius da Silva, Helio Lopes, Luiz Velho
 *** Venue: Computers and Graphics (SIBGRAPI Special Issue 2022)
-
 ** Multiresolution Neural Networks for Imaging [[[https://visgraf.github.io/mrnet-img/][Project page]]]
 #+caption: Learning progressively more details of the Cameraman Image. On top, the reconstructions of the cameramen at each level of the network. On the bottom, the FFT spectra of the corresponding images.
 #+attr_html: :width 800px
 [[file:res/m-net-3.png]]
 *** Authors: Hallison Paz, Tiago Novello, Vinícius da Silva, Luiz Schirmer, *Guilherme Schardong*, Fabio Chagas, Helio Lopes, Luiz Velho
 *** Venue: Main Track of SIBGRAPI 2022
-
 ** Neural Networks for Implicit Representations of 3D Scenes [[http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DPE5L][[Paper link]]]
 #+caption: A survey on Neural Network methods for implicit representations
 #+attr_html: :width 800px
 [[file:res/nnir3d_sib2021.png]]
 *** Authors: Luiz Schirmer, *Guilherme Schardong*, Vinícius da Silva, Tiago Novello, Daniel Yukimura, Thales Magalhães, Hallison Paz, Hélio Lopes, Luiz Velho
 *** Venue: Tutorials of SIBGRAPI 2021
-
 ** Incorporating Dynamic Production-Logging Data to the Permeability-Estimation Workflow Using Machine Learning [[[https://onepetro.org/SJ/article-abstract/25/05/2765/454025/Incorporating-Dynamic-Production-Logging-Data-to?redirectedFrom=fulltext][Paper link]]]
 #+caption: Estimating near-well Permeability given production, imaging and, gamma-ray data using neural networks.
 #+attr_html: :width 800px
