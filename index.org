@@ -16,6 +16,12 @@ I got my Bachelor's degree in Computer Science from UFSM in 2012 and a Master's 
 
 * Research
 My current research interests involve mainly AI for Graphics and Implicit Function representation. Below is a selected list of projects and publications from the last 5 years.
+** Neural Implicit Surface Evolution [[[https://dsilvavinicius.github.io/nise][Project page]]] [[[https://github.com/dsilvavinicius/nise][Code repository]]] [[https://openaccess.thecvf.com/content/ICCV2023/papers/Novello_Neural_Implicit_Surface_Evolution_ICCV_2023_paper.pdf][[Paper link]​]]
+#+caption: Employing the Mean-Curvature Equation to smooth an Armadillo model without intermediate time supervision.
+#+attr_html: :width 800px
+[[file:res/smoothing-arm-curvatures.png]]
+*** Authors: Tiago Novello, Vinícius da Silva, *Guilherme Schardong*, Luiz Schirmer, Hélio Lopes, Luiz Velho
+*** Venue: Proceedings of the IEEE/International Conference on Computer Vision, 2023
 
 ** MR-Net: Multiresolution sinusoidal neural networks [[[https://visgraf.github.io/mrnet-img/][Project page]]]
 #+caption: Controlling the learned frequencies of the Einstein portrait by specializing each independent stage on an L-Net and composing their results.
@@ -23,7 +29,7 @@ My current research interests involve mainly AI for Graphics and Implicit Functi
 [[file:res/mrnet-cg.png]]
 *** Authors: Hallison Paz, Daniel Perazzo, Tiago Novello, *Guilherme Schardong*, Luiz Schirmer, Vinícius da Silva, Daniel Yukimura, Fábio Chagas, Hélio Lopes, Luiz Velho
 *** Venue: Computers and Graphics (vol. 114), 2023
-** Exploring differential geometry in neural implicits [[[https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits][Project page]]]
+** Exploring differential geometry in neural implicits [[[https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits][Project page]]][[https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits/][ [Code repository]]] [[https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits/assets/novello2022exploring.pdf][[Paper link]​]]
 #+caption: Gaussian and Mean curvatures of the Stanford Armadillo. We calculated them from a smooth neural network trained on the Armadillo mesh. Afterwards, we used the analytical formulas of the curvatures on the neural network evaluated at the mesh vertices and plotted the results as colors.
 #+attr_html: :width 800px
 [[file:res/i3d.jpeg]]
