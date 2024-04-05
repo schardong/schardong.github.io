@@ -1,21 +1,21 @@
 .title {
-  text-align: left;
-  margin-left: auto;
-  border-bottom-style: solid;
-  border-bottom-color: lightgray;
+    text-align: left;
+    margin-left: auto;
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
 }
 
 html {
-  max-width: 80ch;
-  padding: 3em 1em;
-  margin: auto;
-  line-height: 1.75;
-  font-size: 1.25em;
+    max-width: 160ch;
+    padding: 3em 1em;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25em;
 }
 
 body {
     margin: 40px auto;
-    max-width: 1650px;
+    max-width: 1920px;
     line-height: 1.6;
     font-size: 16px;
     color: #444;
@@ -28,19 +28,74 @@ h1,h2,h3 {
     font-weight: bolder;
 }
 
-#contact {
-  position: absolute;
-  top: 2.25em;
-  right: 10%;
+/* #contact { */
+/*     #position: absolute; */
+/*     top: 2.25em; */
+/*     right: 10%; */
+/* } */
+
+/* #pgpkey { */
+/*     #position: absolute; */
+/*     top: 3.5em; */
+/*     right: 10%; */
+/* } */
+
+
+#pgp {
+    /* position: absolute; */
+    font-size: 0.625em;
+    top: 6.125em;
 }
 
-#pgpkey {
-    position: absolute;
-    top: 3.5em;
-    right: 10%;
+@media all and (min-width: 600px) {
+    #pgp {
+        right: 10%;
+    }
+}
+
+@media all and (max-width: 1000px){
+    #pgp {
+        right: 1em;
+    }
+}
+
+#contact {
+    /* position: absolute; */
+    top: 2.25em;
+}
+
+@media all and (min-width: 1000px) {
+    #contact {
+        right: 10%;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    #contact {
+        right: 1em;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    #me {
+        left: 1em;
+    }
+}
+
+#me {
+    #position: absolute;
+    top: 2.25em;
+    left: 10%;
+    height: 200px;
 }
 
 @media all and (min-width: 700px) {
+    .hide-large {
+        display: none;
+    }
+}
+
+@media all and (max-width: 1000px) {
     .hide-large {
         display: none;
     }
