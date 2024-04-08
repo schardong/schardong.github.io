@@ -69,7 +69,7 @@ Authors: Hallison Paz, Tiago Novello, Vinícius da Silva, Luiz Schirmer, *Guilhe
 Venue: Main Track of SIBGRAPI 2022
 ** Neural Networks for Implicit Representations of 3D Scenes [[http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DPE5L][[Paper link]]]
 # #+caption: A survey on Neural Network methods for implicit representations
-#+attr_html: :width 800px
+#+attr_html: :width 100% :align center
 [[file:res/nnir3d_sib2021.png]]
 
 Authors: Luiz Schirmer, *Guilherme Schardong*, Vinícius da Silva, Tiago Novello, Daniel Yukimura, Thales Magalhães, Hallison Paz, Hélio Lopes, Luiz Velho
@@ -77,7 +77,7 @@ Authors: Luiz Schirmer, *Guilherme Schardong*, Vinícius da Silva, Tiago Novello
 Venue: Tutorials of SIBGRAPI 2021
 ** Incorporating Dynamic Production-Logging Data to the Permeability-Estimation Workflow Using Machine Learning [[[https://onepetro.org/SJ/article-abstract/25/05/2765/454025/Incorporating-Dynamic-Production-Logging-Data-to?redirectedFrom=fulltext][Paper link]]]
 # #+caption: Estimating near-well Permeability given production, imaging and, gamma-ray data using neural networks.
-#+attr_html: :width 800px
+#+attr_html: :width 100% :align center
 [[file:res/fig13.png]]
 
 Authors: Ciro Guimarães, Luiz Schirmer, *Guilherme Schardong*, Abelardo Barreto, Hélio Lopes
@@ -85,7 +85,7 @@ Authors: Ciro Guimarães, Luiz Schirmer, *Guilherme Schardong*, Abelardo Barreto
 Venue: Society of Petroleum Engineers Journal, issue 25, 2020
 ** Eras: Improving the quality control in the annotation process for Natural Language Processing tasks [[[https://doi.org/10.1016/j.is.2020.101553][Paper link]]] [[[https://github.com/jonatasgrosman/eras][Code repository]]]
 # #+caption: Adjudication interface for ERAS, used for consolidating the annotations of multiple users.
-#+attr_html: :width 800px
+#+attr_html: :width 100% :align center
 [[file:res/eras.png]]
 
 Authors: Jonatas Grosman, Pedro Furtado, Ariane Bueno, *Guilherme Schardong*, Simone Barbosa, Hélio Lopes
@@ -93,7 +93,7 @@ Authors: Jonatas Grosman, Pedro Furtado, Ariane Bueno, *Guilherme Schardong*, Si
 Venue: Information System, issue 93, 2020
 ** Visual exploration of an ensemble of classifiers [[[https://doi.org/10.1016/j.cag.2019.08.012][Paper link]]]
 # #+caption: Exploration of classification results for various algorithms using linked views and dimensionality reduction.
-#+attr_html: :width 800px
+#+attr_html: :width 100% :align center
 [[file:res/sib2019.png]]
 
 Authors: Paula Ribeiro, *Guilherme Schardong*, Simone Barbosa, Clarisse de Souza, Hélio Lopes
@@ -101,7 +101,7 @@ Authors: Paula Ribeiro, *Guilherme Schardong*, Simone Barbosa, Clarisse de Souza
 Venue: Computers and Graphics (SIBGRAPI Special Issue 2019)
 ** Visual interactive support for selecting scenarios from time-series ensembles [[[https://doi.org/10.1016/j.dss.2018.08.001][Paper link]]] [[[https://github.com/schardong/visual-scenario-reduction][Code repository]]]
 # #+caption: Main window of our prototype. Linked views and dimensionality reduction permit the navigation among complex, time-varying data, with the goal of picking the instances closest to an arbitrary goal (P10, P50 or P90 production percentiles in our case).
-#+attr_html: :width 800px
+#+attr_html: :width 100% :align center
 [[file:res/dss2018.png]]
 
 Authors: *Guilherme Schardong*, Ariane Rodrigues, Simone Barbosa, Hélio Lopes
