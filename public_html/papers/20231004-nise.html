@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-10-23 Thu 13:47 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Neural Implicit Surface Evolution</title>
+<meta name="author" content="Tiago Novello, Vinícius da Silva, *Guilherme Schardong*, Luiz Schirmer, Hélio Lopes, Luiz Velho" />
+<meta name="generator" content="Org Mode" />
+<meta name="referrer" content="origin" />
+<link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Neural Implicit Surface Evolution</h1>
+<div class="teaser" id="orga4144d7">
+
+<div id="org62d5074" class="figure">
+<p><img src="../../res/smoothing-arm-curvatures.png" alt="smoothing-arm-curvatures.png" />
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-org2635651" class="outline-2">
+<h2 id="org2635651">Abstract</h2>
+<div class="outline-text-2" id="text-org2635651">
+<p>
+This work investigates the use of smooth neural networks for modeling dynamic variations of implicit surfaces under the level set equation (LSE). For this, it extends the representation of neural implicit surfaces to the space-time, which opens up mechanisms for continuous geometric transformations. Examples include evolving an initial surface towards general vector fields, smoothing and sharpening using the mean curvature equation, and interpolations of initial conditions. The network training considers two constraints. A data term is responsible for fitting the initial condition to the corresponding time instant. Then, a LSE term forces the network to approximate the underlying geometric evolution given by the LSE, without any supervision. The network can also be initialized based on previously trained initial conditions, resulting in faster convergence compared to the standard approach.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Tiago Novello, Vinícius da Silva, <b>Guilherme Schardong</b>, Luiz Schirmer, Hélio Lopes, Luiz Velho</p>
+<p class="date">Created: 2025-10-23 Thu 13:47</p>
+</div>
+</body>
+</html>

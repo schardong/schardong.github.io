@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-10-23 Thu 13:47 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Neural Implicit Morphing of Face Images</title>
+<meta name="author" content="*Guilherme Schardong*, Tiago Novello, Hallison Paz, Iurii Medvedev, Vinícius da Silva, Luiz Velho, Nuno Gonçalves" />
+<meta name="generator" content="Org Mode" />
+<meta name="referrer" content="origin" />
+<link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Neural Implicit Morphing of Face Images</h1>
+<div class="teaser" id="org104814b">
+
+<div id="orge16087e" class="figure">
+<p><img src="../../res/morphing.png" alt="morphing.png" />
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-orga6a311c" class="outline-2">
+<h2 id="orga6a311c">Abstract</h2>
+<div class="outline-text-2" id="text-orga6a311c">
+<p>
+Face morphing is a problem in computer graphics with numerous artistic and forensic applications. It is challenging due to variations in pose, lighting, gender, and ethnicity. This task consists of a warping for feature alignment and a blending for a seamless transition between the warped images. We propose to leverage coord-based neural networks to represent such warpings and blendings of face images. During training, we exploit the smoothness and flexibility of such networks by combining energy functionals employed in classical approaches without discretizations. Additionally, our method is time-dependent, allowing a continuous warping/blending of the images. During morphing inference, we need both direct and inverse transformations of the time-dependent warping. The first (second) is responsible for warping the target (source) image into the source (target) image. Our neural warping stores those maps in a single network dismissing the need for inverting them. The results of our experiments indicate that our method is competitive with both classical and generative models under the lens of image quality and face-morphing detectors. Aesthetically, the resulting images present a seamless blending of diverse faces not yet usual in the literature.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: <b>Guilherme Schardong</b>, Tiago Novello, Hallison Paz, Iurii Medvedev, Vinícius da Silva, Luiz Velho, Nuno Gonçalves</p>
+<p class="date">Created: 2025-10-23 Thu 13:47</p>
+</div>
+</body>
+</html>

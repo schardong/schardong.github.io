@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-10-23 Thu 13:47 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MR-Net: Multiresolution sinusoidal neural networks</title>
+<meta name="author" content="Hallison Paz, Daniel Perazzo, Tiago Novello, *Guilherme Schardong*, Luiz Schirmer, Vinícius da Silva, Daniel Yukimura, Fabio Chagas, Hélio Lopes, Luiz Velho" />
+<meta name="generator" content="Org Mode" />
+<meta name="referrer" content="origin" />
+<link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">MR-Net: Multiresolution sinusoidal neural networks</h1>
+<div class="teaser" id="orgba41f3c">
+
+<div id="orgf79eef3" class="figure">
+<p><img src="../../res/mrnet-cag.png" alt="mrnet-cag.png" />
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-org4768cc0" class="outline-2">
+<h2 id="org4768cc0">Abstract</h2>
+<div class="outline-text-2" id="text-org4768cc0">
+<p>
+We present MR-Net, a general architecture for multiresolution sinusoidal neural networks, and a framework for imaging applications based on this architecture. We extend sinusoidal networks, and we build an infrastructure to train networks to represent signals in multiresolution. Our coordinate-based networks, namely L-Net, M-Net, and S-Net, are continuous both in space and in scale as they are composed of multiple stages that progressively add finer details. Currently, band-limited coordinate networks (BACON) are able to represent signals at multiscale by limiting their Fourier spectra. However, this approach introduces artifacts leading to an image with a ringing effect. We show that MR-Net can represent more faithfully what is expected of sequentially applying low-pass filters in a high-resolution image. Our experiments on the Kodak Dataset show that MR-Net can reach comparable Peak Signal-to-Noise Ratio (PSNR) to other architectures, on image reconstruction, while needing fewer additional parameters for multiresolution. Along with MR-Net, we detail our architecture’s mathematical foundations and general ideas, and show examples of applications to texture magnification, minification, and antialiasing. Lastly, we compare our three MR-Net subclasses.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Hallison Paz, Daniel Perazzo, Tiago Novello, <b>Guilherme Schardong</b>, Luiz Schirmer, Vinícius da Silva, Daniel Yukimura, Fabio Chagas, Hélio Lopes, Luiz Velho</p>
+<p class="date">Created: 2025-10-23 Thu 13:47</p>
+</div>
+</body>
+</html>
