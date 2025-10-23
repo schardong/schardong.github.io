@@ -1,0 +1,10 @@
+#+TITLE: INTERACT-NET: An Interactive Interface for Multimedia Machine Learning
+#+AUTHOR: Alberto Kopiler, Tiago Novello, *Guilherme Schardong*, Luiz Schirmer, Daniel Perazzo, Luiz Velho
+#+VENUE: 2024 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2024-09-30
+#+DOI: 10.1109/SIBGRAPI62404.2024.10716312
+
+* Abstract
+INTERACT-NET is a study of interactive human-computer interfaces for use in pipelines of multimedia using machine learning (ML), image processing, and computer graphics.

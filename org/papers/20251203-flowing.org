@@ -1,0 +1,16 @@
+#+TITLE: FLOWING: Implicit Neural Flows for Structure-Preserving Morphing
+#+AUTHOR: Arthur Bizzi, Matias Grynberg, Vitor Matias, Daniel Perazzo, João Paulo Lima, Luiz Velho, Nuno Gonçalves, João Pereira, *Guilherme Schardong*, Tiago Novello
+#+VENUE: [To appear] The Thirty-ninth Annual Conference on Neural Information Processing Systems
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2025-12-05
+#+DOI: 10.48550/arXiv.2510.09537
+
+#+begin_teaser
+[[file:../../res/flowing-teaser.png]]
+#+end_teaser
+
+* Abstract
+Morphing is a long-standing problem in vision and computer graphics, requiring a time-dependent warping for feature alignment and a blending for smooth interpolation. Recently, multilayer perceptrons (MLPs) have been explored as implicit neural representations (INRs) for modeling such deformations, due to their meshlessness and differentiability; however, extracting coherent and accurate morphings from standard MLPs typically relies on costly regularizations, which often lead to unstable training and prevent effective feature alignment.
+To overcome these limitations, we propose FLOWING~(*FLOW* morph *ING*), a framework that recasts warping as the construction of a differential vector flow, naturally ensuring continuity, invertibility, and temporal coherence by encoding structural flow properties directly into the network architectures. This flow-centric approach yields principled and stable transformations, enabling accurate and structure-preserving morphing of both 2D images and 3D shapes.
+Extensive experiments across a range of applications—including face and image morphing, as well as Gaussian Splatting morphing—show that FLOWING achieves state-of-the-art morphing quality with faster convergence. Code and pretrained models are available in [[https://schardong.github.io/flowing][this http URL]].

@@ -1,0 +1,14 @@
+#+TITLE: How to train your (neural) dragon
+#+AUTHOR: Luiz Schirmer, Tiago Novello, Vinícius da Silva, *Guilherme Schardong*, Hélio Lopes, Luiz Velho
+#+VENUE: 2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2023-11-06
+#+DOI: 10.1109/SIBGRAPI59091.2023.10347177
+
+#+begin_teaser
+file:../../res/dragon.png
+#+end_teaser
+
+* Abstract
+Neural fields have emerged as a promising framework for representing different types of signals. This tutorial focus on the existing literature and shares practical insights derived from hands-on experimentation with neural fields, specifically in approximating implicit functions of surfaces. Our emphasis lies in strategies leveraging differential geometry concepts to enhance training outcomes and showcase applications within this domain.

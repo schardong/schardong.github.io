@@ -1,0 +1,14 @@
+#+TITLE: Exploring differential geometry in neural implicits
+#+AUTHOR: Tiago Novello, Guilherme Schardong, Luiz Schirmer, Vinícius da Silva, Hélio Lopes, Luiz Velho
+#+VENUE: Computers & Graphics, Volume 108, 2022, ISSN 0097-8493
+#+SETUPFILE: ../setup.org
+#+EXPORT_DATE: 2022-09-13
+#+DOI: 10.1016/j.cag.2022.09.003
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+
+#+begin_teaser
+file:../../res/i3d.jpeg
+#+end_teaser
+
+* Abstract
+We introduce a neural implicit framework that exploits the differentiable properties of neural networks and the discrete geometry of point-sampled surfaces to approximate them as the level sets of neural implicit functions. To train a neural implicit function, we propose a loss functional that approximates a signed distance function, and allows terms with high-order derivatives, such as the alignment between the principal directions of curvature, to learn more geometric details. During training, we consider a non-uniform sampling strategy based on the curvatures of the point-sampled surface to prioritize points with more geometric details. This sampling implies faster learning while preserving geometric accuracy when compared with previous approaches. We also use the analytical derivatives of a neural implicit function to estimate the differential measures of the underlying point-sampled surface.

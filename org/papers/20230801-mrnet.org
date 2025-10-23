@@ -1,0 +1,14 @@
+#+TITLE: MR-Net: Multiresolution sinusoidal neural networks
+#+AUTHOR: Hallison Paz, Daniel Perazzo, Tiago Novello, *Guilherme Schardong*, Luiz Schirmer, Vinícius da Silva, Daniel Yukimura, Fabio Chagas, Hélio Lopes, Luiz Velho
+#+VENUE: Computers & Graphics, Volume 114, 2023, ISSN 0097-8493
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2023-07-07
+#+DOI: 10.1016/j.cag.2023.05.014
+
+#+begin_teaser
+file:../../res/mrnet-cag.png
+#+end_teaser
+
+* Abstract
+We present MR-Net, a general architecture for multiresolution sinusoidal neural networks, and a framework for imaging applications based on this architecture. We extend sinusoidal networks, and we build an infrastructure to train networks to represent signals in multiresolution. Our coordinate-based networks, namely L-Net, M-Net, and S-Net, are continuous both in space and in scale as they are composed of multiple stages that progressively add finer details. Currently, band-limited coordinate networks (BACON) are able to represent signals at multiscale by limiting their Fourier spectra. However, this approach introduces artifacts leading to an image with a ringing effect. We show that MR-Net can represent more faithfully what is expected of sequentially applying low-pass filters in a high-resolution image. Our experiments on the Kodak Dataset show that MR-Net can reach comparable Peak Signal-to-Noise Ratio (PSNR) to other architectures, on image reconstruction, while needing fewer additional parameters for multiresolution. Along with MR-Net, we detail our architecture’s mathematical foundations and general ideas, and show examples of applications to texture magnification, minification, and antialiasing. Lastly, we compare our three MR-Net subclasses.

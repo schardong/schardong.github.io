@@ -1,0 +1,10 @@
+#+TITLE: RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images
+#+AUTHOR: Aniana Cruz, *Guilherme Schardong*, Luiz Schirmer, João Marcos, Farhad Shadmand, Nuno Gonçalves
+#+VENUE: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2025-02-26
+#+DOI: 10.1109/WACV61041.2025.00736
+
+* Abstract
+Covariance matrices outperform first-order features in many tasks, attracting considerable attention from the computer vision research community. Covariance matrices encode second-order statistics between features, at the same time it is robust to noise. Based on this, we propose representing images by covariance matrices and defining a loss function that measures the distance between them through the Riemannian distance. Motivated by the robustness and invariance properties of the affine invariant Riemannian metric the proposed method was validated in printer-proof data transmission, which is a challenging task due to the trade-off between image quality and message recovery capabilities after printing and digitization procedures. The effectiveness of this approach was systematically assessed using MS COCO and IMM Face datasets. The results demon-strated that the proposed approach outperforms conventional methods that use Euclidean distance, generating encoded images with better quality and achieving higher recovery accuracy in printed images. Additionally, a broader application of the proposed loss was successfully tested in image generation tasks, using generative adversarial networks (GANs).

@@ -1,0 +1,57 @@
+#+TITLE: Guilherme G. Schardong
+#+AUTHOR: Guilherme G Schardong
+#+DATE: 2021-03-31
+#+SETUPFILE: ./setup.org
+#+html_head: <link rel="stylesheet" href="css/tufte.css" type="text/css" />
+#+html:<div class="pgp"><a href="../res/key.txt"><tt>6EF2 6885 8BD4 F608 58AF 4763 BC05 5498 F7E7 7E74</tt></a></div>
+#+html: <hr />
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: intro
+:END:
+I'm currently a Research Scientist at [[https://www.isr.uc.pt/][Institute of Systems and Robotics, University of Coimbra]], where I work on projects with the [[https://visteam.isr.uc.pt/home][Visual Information Security Team (VISTEAM)]]. Up to January 2022, I was a research fellow at GALGOS/PUC-Rio, with experience on oil&gas industry from projects with PETROBRAS on well-testing and reservoir model inference. From 2020 to 2024 I was also a part-time post-doc at [[https://www.visgraf.impa.br/home/][Visgraf/IMPA]], where I worked on computer graphics and machine learning, with emphasis on implicit function reconstruction and rendering.
+
+* Background
+:PROPERTIES:
+:CUSTOM_ID: backg
+:END:
+I got my Bachelor's degree in Computer Science from UFSM in 2012 and a Master's degree in Informatics in the same university, in 2014, advised by prof. [[http://www.inf.ufsm.br/~pozzer][Cesar Pozzer]]. In 2018 I got my D.Sc. in Informatics at PUC-Rio, as a member of GALGOS. From 2014 to 2016 I worked as a developer under prof. [[http://www.inf.puc-rio.br/~celes][Waldemar Celes]] on the Reservoir Visualization group on Tecgraf/PUC-Rio Institute. In 2016 I started working with prof. [[https://www.inf.puc-rio.br/~lopes][Hélio Lopes]] (being advised by him since 2015) and was co-advised by prof. [[https://www.inf.puc-rio.br/~simone][Simone Barbosa]] during my doctorate. I'm currently a Research Scientist at the Institute for Systems an Robotics, University of Coimbra at the [[https://visteam.isr.uc.pt/home][VISTEAM]] group, led by prof [[https://home.deec.uc.pt/~nunogon/][Nuno Gonçalves]]. I'm also colaborate on a regular basis with prof. [[https://www.impa.br/~lvelho][Luiz Velho]] from Visgraf/IMPA.
+
+* Research
+:PROPERTIES:
+:CUSTOM_ID: research
+:END:
+My current research interests involve mainly AI for Graphics, Vision and Implicit Neural Representations.
+
+** Journal Papers
+1. Democratizing interactivity: An overview of interfaces for multimedia machine learning
+   [[[https://doi.org/10.1016/j.cag.2025.104412][Paper link]]] [[[file:papers/20250901-democratizing.org][Info]]]
+2. *Geometric implicit neural representations for signed distance functions*
+   [[[https://doi.org/10.1016/j.cag.2024.104085][Paper link]]] [[[file:papers/20241201-geometricinr.org][Info]]]
+3. MR-Net: Multiresolution sinusoidal neural networks
+   [[[https://visgraf.github.io/mrnet-img/][Project page]]] [[[https://doi.org/10.1016/j.cag.2023.05.014][Paper link]]] [[[file:papers/20230801-mrnet.org][Info]]]
+4. *Exploring Differential Geometry in Neural Implicits*
+   [[[https://dsilvavinicius.github.io/i3d][Project page]]] [[[https://dsilvavinicius.github.io/i3d][Code repository]]] [[https://www.sciencedirect.com/science/article/pii/S0097849322001649][[Paper link]]] [[[https://arxiv.org/abs/2201.09263][ArXiv link]]] [[[file:papers/20220913-i3d.org][Info]]]
+
+** Conference Papers
+1. *FLOWING: Implicit Neural Flows for Structure-Preserving Morphing*
+   [[[https://schardong.github.io/flowing][Project page]]] [[[https://github.com/schardong/flowing][Code repository]]] [[[https://arxiv.org/abs/2510.09537][ArXiv link]]] [[[file:papers/20251203-flowing.org][Info]]]
+2. RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images
+   [[[https://openaccess.thecvf.com/content/WACV2025/html/Cruz_RiemStega_Covariance-Based_Loss_for_Print-Proof_Transmission_of_Data_in_Images_WACV_2025_paper.html][Paper link]]] [[[file:papers/20250226-riemstega.org][Info]]]
+3. INTERACT-NET: An Interactive Interface for Multimedia Machine Learning
+   [[[https://ieeexplore.ieee.org/document/10716312][Paper link]]] [[[file:papers/20240930-interactnet.org][Info]]]
+4. *Neural Implicit Morphing of Face Images*
+   [[https://schardong.github.io/ifmorph][[Project page]]] [[[https://github.com/schardong/ifmorph][Code repository]]] [[[https://openaccess.thecvf.com/content/CVPR2024/html/Schardong_Neural_Implicit_Morphing_of_Face_Images_CVPR_2024_paper.html][Paper link]]] [[[https://arxiv.org/abs/2308.13888][ArXiv link]]] [[[file:papers/20240619-ifmorph.org][Info]]]
+5. How to train your (neural) dragon
+   [[[https://www.lschirmer.com/sibgrapi23][Project page]]] [[[https://colab.research.google.com/drive/1bkTG6lzx-yFwyosp55KkmPOKKizmmpHY?usp=sharing][Code repository]]] [[[https://drive.google.com/file/d/1uYsp0XaTFWVLnZ8yQp7sS7g22LF7GM6H/view][Paper link]]] [[[file:papers/20231106-neural-dragon.org][Info]]]
+6. High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers
+   [[[https://openaccess.thecvf.com/content/CVPR2024W/LXCV/html/Schirmer_High-Resolution_Detection_of_Earth_Structural_Heterogeneities_from_Seismic_Amplitudes_using_CVPRW_2024_paper.html?trk=public_post_comment-text][Paper link]]] [[[https://arxiv.org/abs/2404.10170][ArXiv link]]] [[file:papers/20240617-hires-seismic.org][[Info]]]
+7. *Neural Implicit Surface Evolution*
+   [[[https://dsilvavinicius.github.io/nise][Project page]]] [[[https://github.com/dsilvavinicius/nise][Code repository]]] [[https://openaccess.thecvf.com/content/ICCV2023/html/Novello_Neural_Implicit_Surface_Evolution_ICCV_2023_paper.html][[Paper link]​]] [[[https://arxiv.org/abs/2201.09636][ArXiv link]]] [[[file:papers/20231004-nise.org][Info]]]
+8. Multiresolution Neural Networks for Imaging
+   [[[https://visgraf.github.io/mrnet-img/][Project page]]] [[[https://ieeexplore.ieee.org/document/9991765][Paper link]]] [[[https://arxiv.org/abs/2208.11813][ArXiv link]]] [[[file:papers/20221024-mrnet-sibgrapi.org][Info]]]
+
+** Patents
+1. Method for detecting anomalies in the well and oil reservoir system using artificial intelligence
+   [[[https://patents.google.com/patent/US20240229642A1/en][Patent link]]] [[[file:papers/20240711-siarp.org][Info]]]

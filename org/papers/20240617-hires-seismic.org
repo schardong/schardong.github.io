@@ -1,0 +1,10 @@
+#+TITLE: High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers
+#+AUTHORS: Luiz Schirmer, *Guilherme Schardong*, Vinícius Da Silva, Rogério Santos, Hélio Lopes
+#+VENUE: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2024-06-18
+#+DOI: 10.1109/CVPRW63382.2024.00033
+
+* Abstract
+Earth structural heterogeneities have a remarkable role in the petroleum economy for both exploration and production projects. Automatic detection of detailed structural heterogeneities is challenging when considering modern machine learning techniques like deep neural networks. Typically these techniques can be an excellent tool for assisted interpretation of such heterogeneities but it heavily depends on the amount of data to be trained. We propose an efficient and cost-effective architecture for detecting seismic structural heterogeneities using Convolutional Neural Networks (CNNs) combined with Attention layers. The attention mechanism reduces costs and enhances accuracy even in cases with relatively noisy data. Our model has half the parameters compared to the state-of-the-art and it outperforms previous methods in terms of Intersection over Union (IoU) by 0.6% and precision by 0.4%. By leveraging synthetic data we apply transfer learning to train and fine-tune the model addressing the challenge of limited annotated data availability.

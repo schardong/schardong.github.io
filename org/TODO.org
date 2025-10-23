@@ -1,0 +1,10 @@
+* Auto generate the papers/works/projects list
+Use https://api.crossref.org/{doi} to pull information on each work and dynamically generate the papers org files. Obtain a list of DOIs using GScholar. Can also search by paper name. Record this somewhere to avoid duplicating pages.
+** Add BibTeX to the org-file of each paper
+* Add a navbar
+** Link to index.html
+** Link to ORCID
+** Link to LinkedIn
+** Link to GitHub
+* References
+1. https://ogbe.net/blog/emacs_org_static_site

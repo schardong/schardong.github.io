@@ -1,0 +1,10 @@
+#+TITLE: Democratizing interactivity: An overview of interfaces for multimedia machine learning
+#+AUTHOR: Alberto Arkader Kopiler, *Guilherme Schardong*, Luiz Schirmer, Daniel Perazzo, Tiago Novello, Luiz Velho,
+#+VENUE: Computers & Graphics, Volume 132, 2025, ISSN 0097-8493,
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2025-12-05
+#+DOI: 10.1016/j.cag.2025.104412
+
+* Abstract
+This paper provides an overview of interactive human–computer interfaces designed for multimedia processing pipelines that integrate machine learning, image processing, and computer graphics. It serves as a practical guide to existing techniques and tools for developing interactive applications in this domain. We outline key prerequisites, present relevant tools, and describe experiments that highlight the integration of these technologies. The study addresses usability challenges in interactive multimedia analysis and synthesis, taking advantage of recent advances in generative AI and multimodal data processing. Using real-time 2D and 3D interaction, we explore the design of dynamic interfaces that enable users to manipulate and visualize data within machine learning workflows, such as facial landmark detection and image morphing. Through case studies, we show accessible web-based frameworks that support the development of interactive, mobile-friendly applications that facilitate broader user engagement across platforms.

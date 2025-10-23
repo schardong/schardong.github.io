@@ -1,0 +1,3 @@
+#+startup: hideblocks
+#+options: num:nil toc:nil
+#+html_head: <meta name="referrer" content="origin" />

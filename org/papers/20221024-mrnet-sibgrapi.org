@@ -1,0 +1,17 @@
+#+TITLE: Multiresolution Neural Networks for Imaging
+#+AUTHOR: Hallison Paz, Tiago Novello, Vinícius da Silva, Luiz Schirmer, *Guilherme Schardong*, Fabio Chagas, Helio Lopes, Luiz Velho
+#+VENUE: 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2022-10-24
+#+DOI: 10.1109/SIBGRAPI55357.2022.9991765
+
+#+begin_teaser
+file:../../res/m-net-3.png
+#+end_teaser
+
+* Abstract
+We present MR-Net, a general architecture for multiresolution neural networks, and a framework for imaging applications based on this architecture. Our coordinate-based networks are continuous both in space and in scale as they are composed of multiple stages that progressively add finer details. Besides that, they are a compact and efficient representation. We show examples of multiresolution image representation and applications to texture magnification, minification, and antialiasing.
+#+begin_marginnote
+This is a margin note.
+#+end_marginnote

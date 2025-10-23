@@ -1,0 +1,10 @@
+#+TITLE: Geometric implicit neural representations for signed distance functions
+#+AUTHOR: Luiz Schirmer, Tiago Novello, Vinícius da Silva, *Guilherme Schardong*, Daniel Perazzo, Hélio Lopes, Nuno Gonçalves, Luiz Velho
+#+VENUE: Computers & Graphics, Volume 125, 2024, ISSN 0097-8493
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2024-12-01
+#+DOI: 10.1016/j.cag.2024.104085
+
+* Abstract
+Implicit neural representations (INRs) have emerged as a promising framework for representing signals in low-dimensional spaces. This survey reviews the existing literature on the specialized INR problem of approximating signed distance functions (SDFs) for surface scenes, using either oriented point clouds or a set of posed images. We refer to neural SDFs that incorporate differential geometry tools, such as normals and curvatures, in their loss functions as geometric INRs. The key idea behind this 3D reconstruction approach is to include additional regularization terms in the loss function, ensuring that the INR satisfies certain global properties that the function should hold — such as having unit gradient in the case of SDFs. We explore key methodological components, including the definition of INR, the construction of geometric loss functions, and sampling schemes from a differential geometry perspective. Our review highlights the significant advancements enabled by geometric INRs in surface reconstruction from oriented point clouds and posed images.

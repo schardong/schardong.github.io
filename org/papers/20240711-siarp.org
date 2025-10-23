@@ -1,0 +1,9 @@
+#+TITLE: Method for detecting anomalies in the well and oil reservoir system using artificial intelligence
+#+AUTHOR: Priscila Magalhaes Ribeiro, Fernando Nascimento Coelho, Luiz José Schirmer Da Silva, *Guilherme Gonçalves Schardong*, Jonatas Dos Santos Grosman, Vinícius Da Silva, André Ricardo Ducca Fernandes, Leonardo Osorio Pelisoli, Hélio Côrtes Vieira Lopes
+#+VENUE: Patent number BR102023000363-0A, registered at Instituto Nacional de Propriedade Intelectual (INPI), Brasil, Patent number US20240229642A1, registered at the United States Patent and Trademark Office (USPTO)
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+
+
+* Abstract
+The main objective of the present invention is to enable continuous monitoring and detect anomalous behavior in wells equipped with intelligent completion automatically by means of a method implemented with artificial intelligence. The present invention applies AI techniques to monitor wells in an oil field and has the ability to understand what the usual behavior of each well would be, based on temperature, pressure and flow rate sensors, and then identify by means of a stochastic technique of selection of outliers which a deviation from usual behavior would be. From the outlier detection, it is possible to quantify an anomaly probability and associate the same with a possible event, such as: sensor failure and loss of data, closure of one of the producing intervals, scale deposition, among others.
