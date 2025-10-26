@@ -13,7 +13,7 @@
              :recursive nil
              :base-directory "org/papers/"
              :base-extension "org"
-             :publishing-directory "public_html/papers/"
+             :publishing-directory "docs/papers/"
              :publishing-function 'org-html-publish-to-html
              :with-author t
              :with-date nil)
@@ -23,7 +23,7 @@
              :recursive nil
              :base-directory "org/"
              :base-extension "org"
-             :publishing-directory "public_html/"
+             :publishing-directory "docs/"
              :publishing-function 'org-html-publish-to-html
              :with-author nil
              :with-creator t
@@ -35,7 +35,7 @@
        (list "css"
              :base-directory "css/"
              :base-extension "css\\|eot\\|svg\\|ttf\\|woff"
-             :publishing-directory "public_html/css"
+             :publishing-directory "docs/css"
              :publishing-function 'org-publish-attachment
              :recursive t)
 

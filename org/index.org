@@ -3,7 +3,7 @@
 #+DATE: 2021-03-31
 #+SETUPFILE: ./setup.org
 #+html_head: <link rel="stylesheet" href="css/tufte.css" type="text/css" />
-#+html:<div class="pgp"><a href="../res/key.txt"><tt>6EF2 6885 8BD4 F608 58AF 4763 BC05 5498 F7E7 7E74</tt></a></div>
+#+html:<div class="pgp"><a href="res/key.txt"><tt>6EF2 6885 8BD4 F608 58AF 4763 BC05 5498 F7E7 7E74</tt></a></div>
 #+html: <hr />
 
 * Introduction
