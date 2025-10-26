@@ -39,7 +39,15 @@
              :publishing-function 'org-publish-attachment
              :recursive t)
 
-        (list "schardong.github.io" :components '("css" "papers" "index"))))
+       ;; --- Component 4: Static resources ---
+       (list "res"
+             :base-directory "res/"
+             :base-extension "css\\|eot\\|svg\\|ttf\\|woff\\|jpg\\|png\\|txt"
+             :publishing-directory "docs/res"
+             :publishing-function 'org-publish-attachment
+             :recursive t)
+
+        (list "schardong.github.io" :components '("css" "papers" "res" "index"))))
 
 ;; Generate the site output
 (org-publish-all t)
