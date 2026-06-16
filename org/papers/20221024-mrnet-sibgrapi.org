@@ -12,6 +12,6 @@ file:../../res/m-net-3.png
 
 * Abstract
 We present MR-Net, a general architecture for multiresolution neural networks, and a framework for imaging applications based on this architecture. Our coordinate-based networks are continuous both in space and in scale as they are composed of multiple stages that progressively add finer details. Besides that, they are a compact and efficient representation. We show examples of multiresolution image representation and applications to texture magnification, minification, and antialiasing.
-#+begin_marginnote
-This is a margin note.
-#+end_marginnote
+# #+begin_marginnote
+# This is a margin note.
+# #+end_marginnote
