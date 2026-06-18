@@ -7,7 +7,7 @@
 #+DOI: 10.1016/j.cag.2023.05.014
 
 #+begin_teaser
-file:../../res/mrnet-cag.png
+[[file:../../res/mrnet-cg.png]]
 #+end_teaser
 
 * Abstract
