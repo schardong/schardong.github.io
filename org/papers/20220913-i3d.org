@@ -7,7 +7,7 @@
 #+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
 
 #+begin_teaser
-file:../../res/i3d.jpeg
+[[file:../../res/i3d.jpg]]
 #+end_teaser
 
 * Abstract
