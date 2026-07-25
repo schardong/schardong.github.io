@@ -10,7 +10,7 @@
 :PROPERTIES:
 :CUSTOM_ID: intro
 :END:
-I'm currently on a short sabbatical leave. Until May 2026, I was a Research Scientist at [[https://www.isr.uc.pt/][Institute of Systems and Robotics, University of Coimbra]], where I worked on projects with the [[https://visteam.isr.uc.pt/home][Visual Information Security Team (VISTEAM)]]. Up to January 2022, I was a research fellow at GALGOS/PUC-Rio, with experience on oil&gas industry from projects with PETROBRAS on well-testing and reservoir model inference. From 2020 to 2022 I was also a part-time post-doc at [[https://www.visgraf.impa.br/home/][Visgraf/IMPA]], where I worked on computer graphics and machine learning, with emphasis on implicit function reconstruction, morphing, and rendering.
+I'm currently an Assistant Professor at Universidade Federal de Santa Maria (UFSM), campus Cachoeira do Sul. Until May 2026, I was a Research Scientist at [[https://www.isr.uc.pt/][Institute of Systems and Robotics, University of Coimbra]], where I worked on projects with the [[https://visteam.isr.uc.pt/home][Visual Information Security Team (VISTEAM)]]. Up to January 2022, I was a research fellow at GALGOS/PUC-Rio, with experience on oil&gas industry from projects with PETROBRAS on well-testing and reservoir model inference. From 2020 to 2022 I was also a part-time post-doc at [[https://www.visgraf.impa.br/home/][Visgraf/IMPA]], where I worked on computer graphics and machine learning, with emphasis on implicit function reconstruction, morphing, and rendering.
 
 * Background
 :PROPERTIES:
