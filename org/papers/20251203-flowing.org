@@ -1,10 +1,10 @@
 #+TITLE: FLOWING: Implicit Neural Flows for Structure-Preserving Morphing
 #+AUTHOR: Arthur Bizzi, Matias Grynberg, Vitor Matias, Daniel Perazzo, João Paulo Lima, Luiz Velho, Nuno Gonçalves, João Pereira, *Guilherme Schardong*, Tiago Novello
-#+VENUE: [To appear] The Thirty-ninth Annual Conference on Neural Information Processing Systems
+#+VENUE: The Thirty-ninth Annual Conference on Neural Information Processing Systems
 #+SETUPFILE: ../setup.org
 #+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
 #+EXPORT_DATE: 2025-12-05
-#+DOI: 10.48550/arXiv.2510.09537
+#+DOI: 10.52202/085713-5118
 
 #+begin_teaser
 [[file:../../res/flowing-teaser.png]]

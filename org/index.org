@@ -3,7 +3,7 @@
 #+DATE: 2021-03-31
 #+SETUPFILE: ./setup.org
 #+html_head: <link rel="stylesheet" href="css/tufte.css" type="text/css" />
-#+html:<div class="pgp"><a href="res/key.txt"><tt>FEE1 4ACF F0CB B4A5 9E0C  2C74 B015 C41C 9D48 C218</tt></a></div>
+#+html:<div class="pgp"><a href="res/key.txt"><tt>F6B4 D1CB 1D79 88AD F8B1  B3EF C2A7 763F EAC1 11CD</tt></a></div>
 #+html: <hr />
 
 * Introduction
@@ -55,3 +55,7 @@ My current research interests involve mainly AI for Graphics, Vision and Implici
 ** Patents
 1. Method for detecting anomalies in the well and oil reservoir system using artificial intelligence
    [[[https://patents.google.com/patent/US20240229642A1/en][Patent link]]] [[[file:papers/20240711-siarp.org][Info]]]
+
+** Thesis
+1. Visual Interactive Support for Selecting Scenarios from Time-Series Ensembles [[https://doi.org/10.17771/PUCRio.acad.35864][[Record link]]]
+2. Geração de funções de transferência para a visualização científica utilizando atributos topológicos [[[https://repositorio.ufsm.br/handle/1/22842][Record link]]]
