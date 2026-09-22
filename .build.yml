@@ -6,7 +6,7 @@ environment:
   site: schardong.srht.site
 tasks:
 - package: |
-    cd docs
-    tar -cvz . > ../site.tar.gz
+    cd $site/docs
+    tar -cvz . > ../../site.tar.gz
 - upload: |
     hut pages publish -d $site site.tar.gz
