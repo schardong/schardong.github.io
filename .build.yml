@@ -2,13 +2,9 @@ image: alpine/edge
 oauth: pages.sr.ht/PAGES:RW
 packages:
     - hut
-    - emacs-nox
 environment:
     site: schardong.srht.site
 tasks:
-    - build: |
-      cd $site
-      sh build-site.sh
     - package: |
       cd $site/docs
       tar -cvz . > ../../site.tar.gz

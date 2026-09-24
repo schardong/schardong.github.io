@@ -8,5 +8,7 @@ Journal paper/conference paper/patent/...
 ** Link to ORCID
 ** Link to LinkedIn
 ** Link to GitHub
+** Lattes
+* Add pt_BR option
 * References
 1. https://ogbe.net/blog/emacs_org_static_site
