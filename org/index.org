@@ -18,6 +18,12 @@ I'm currently an Assistant Professor at Universidade Federal de Santa Maria (UFS
 :END:
 I got my Bachelor's degree in Computer Science from UFSM in 2012 and a Master's degree in Informatics in the same university, in 2014, advised by prof. [[http://www.inf.ufsm.br/~pozzer][Cesar Pozzer]]. In 2018 I got my D.Sc. in Informatics at PUC-Rio, as a member of GALGOS. From 2014 to 2016 I worked as a developer under prof. [[http://www.inf.puc-rio.br/~celes][Waldemar Celes]] on the Reservoir Visualization group on Tecgraf/PUC-Rio Institute. In 2016 I started working with prof. [[https://www.inf.puc-rio.br/~lopes][Hélio Lopes]] (being advised by him since 2015) and was co-advised by prof. [[https://www.inf.puc-rio.br/~simone][Simone Barbosa]] during my doctorate. My latest position was as a Research Scientist at the Institute for Systems an Robotics, University of Coimbra at the [[https://visteam.isr.uc.pt/home][VISTEAM]] group, led by prof [[https://home.deec.uc.pt/~nunogon/][Nuno Gonçalves]]. I also colaborate on a regular basis with prof. [[https://www.impa.br/~lvelho][Luiz Velho]] and [[https://sites.google.com/site/tiagonovellodebrito][Tiago Novello]] from Visgraf/IMPA.
 
+* News
+** SIBGRAPI 2026 Tutorial
+Our tutorial entitled "/Biometrics under attack: On trust, provenance and threat robustness/" has been accepted for SIBGRAPI 2026! The session will be on Oct. 29, at 09:00-03, at Room D. Come check it out! More information on the [[https://sibgrapi.sbc.org.br/2026/][event's website]]
+** ECCV GeoInt 2026 poster
+Our extended abstract "/Learning Diffeomorphic Flows from Shapes to the Sphere/" has been accepted for publication at the Geometric Intelligence workshop at ECCV, Malmö! Do check our colleague Paolo Zuzolo's poster on Sep. 8! More information [[https://geo-int.github.io/][on the workshop's website]]
+
 * Research
 :PROPERTIES:
 :CUSTOM_ID: research
