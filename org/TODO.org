@@ -3,12 +3,6 @@ Use https://api.crossref.org/{doi} to pull information on each work and dynamica
 ** Add BibTeX to the org-file of each paper
 ** Add the work type to the info page
 Journal paper/conference paper/patent/...
-* Add a navbar
-** Link to index.html
-** Link to ORCID
-** Link to LinkedIn
-** Link to GitHub
-** Lattes
 * Add pt_BR option
 * References
 1. https://ogbe.net/blog/emacs_org_static_site
