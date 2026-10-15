@@ -3,7 +3,9 @@
 #+DATE: 2021-03-31
 #+SETUPFILE: ./setup.org
 #+html_head: <link rel="stylesheet" href="css/tufte.css" type="text/css" />
+#+html_head: <style>.profiles{display:flex;flex-wrap:wrap;gap:.4em 1.2em;align-items:center;margin:.6em 0}.profiles a{display:inline-flex;align-items:center;gap:.4em;font-size:1.1rem;background:none;text-decoration:none}.profiles img{height:1.4em;width:auto}.profiles a:hover{opacity:.7}</style>
 #+html:<div class="pgp"><a href="res/key.txt"><tt>F6B4 D1CB 1D79 88AD F8B1  B3EF C2A7 763F EAC1 11CD</tt></a></div>
+#+html:<div class="profiles"><a href="http://lattes.cnpq.br/7858575719498564" title="Currículo Lattes"><img src="res/icons/lattes.svg" alt="Lattes" />Lattes</a><a href="https://orcid.org/0000-0003-3927-0852" title="ORCID"><img src="res/icons/orcid.svg" alt="ORCID" />ORCID</a><a href="https://www.linkedin.com/in/guilherme-schardong-310794ba" title="LinkedIn"><img src="res/icons/linkedin.svg" alt="LinkedIn" />LinkedIn</a><a href="https://github.com/schardong" title="GitHub"><img src="res/icons/github.svg" alt="GitHub" />GitHub</a><a href="https://git.sr.ht/~schardong" title="Sourcehut"><img src="res/icons/sourcehut.svg" alt="Sourcehut" />Sourcehut</a></div>
 #+html: <hr />
 
 * Introduction
