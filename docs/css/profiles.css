@@ -1,0 +1,27 @@
+/* Barra de perfis e seletor de idioma (index.org e pt-BR/index.org) */
+.profiles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4em 1.2em;
+    align-items: center;
+    margin: .6em 0;
+}
+.profiles a {
+    display: inline-flex;
+    align-items: center;
+    gap: .4em;
+    font-size: 1.1rem;
+    background: none;
+    text-decoration: none;
+}
+.profiles img {
+    height: 1.4em;
+    width: auto;
+}
+.profiles a:hover {
+    opacity: .7;
+}
+.profiles .lang {
+    margin-left: auto;
+    font-size: 1.1rem;
+}

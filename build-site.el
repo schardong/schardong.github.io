@@ -31,6 +31,19 @@
              :section-numbers nil
              :time-stamp-file t)
 
+       ;; --- Component 2b: Index page in Brazilian Portuguese ---
+       (list "index-pt-BR"
+             :recursive nil
+             :base-directory "org/pt-BR/"
+             :base-extension "org"
+             :publishing-directory "docs/pt-BR/"
+             :publishing-function 'org-html-publish-to-html
+             :with-author nil
+             :with-creator t
+             :with-toc nil
+             :section-numbers nil
+             :time-stamp-file t)
+
        ;; --- Component 3: Style files (CSS) ---
        (list "css"
              :base-directory "css/"
@@ -47,7 +60,7 @@
              :publishing-function 'org-publish-attachment
              :recursive t)
 
-        (list "schardong.github.io" :components '("css" "papers" "res" "index"))))
+        (list "schardong.github.io" :components '("css" "papers" "res" "index" "index-pt-BR"))))
 
 ;; Generate the site output
 (org-publish-all t)
