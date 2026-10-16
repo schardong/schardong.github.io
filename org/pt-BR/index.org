@@ -47,23 +47,24 @@ Meus interesses de pesquisa atuais envolvem principalmente IA para Computação 
    [[[https://dsilvavinicius.github.io/i3d][Página do projeto]]] [[[https://dsilvavinicius.github.io/i3d][Código]]] [[https://www.sciencedirect.com/science/article/pii/S0097849322001649][[Artigo]]] [[[https://arxiv.org/abs/2201.09263][ArXiv]]] [[[file:../papers/20220913-i3d.org][Info]]]
 
 ** Artigos em conferências
-1. Biometrics under attack: On trust, provenance and threat robustness [Página do projeto] [Código] [Info]
-1. *FLOWING: Implicit Neural Flows for Structure-Preserving Morphing*
+1. M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals [[[https://dsilvavinicius.github.io/m-plicits/][Página do projeto]]] [[[https://github.com/dsilvavinicius/m-plicits][Código]]] [[[https://arxiv.org/abs/2609.28684][ArXiv]]] [Info]
+2. Biometrics under attack: On trust, provenance and threat robustness [[[https://schardong.github.io/facetrust][Página do projeto]]] [[[https://github.com/schardong/facetrust][Código]]] [Info]
+3. *FLOWING: Implicit Neural Flows for Structure-Preserving Morphing*
    [[[https://schardong.github.io/flowing][Página do projeto]]] [[[https://github.com/schardong/flowing][Código]]] [[[https://arxiv.org/abs/2510.09537][ArXiv]]] [[[file:../papers/20251203-flowing.org][Info]]]
-2. RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images
+4. RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images
    [[[https://openaccess.thecvf.com/content/WACV2025/html/Cruz_RiemStega_Covariance-Based_Loss_for_Print-Proof_Transmission_of_Data_in_Images_WACV_2025_paper.html][Artigo]]] [[[file:../papers/20250226-riemstega.org][Info]]]
-3. INTERACT-NET: An Interactive Interface for Multimedia Machine Learning
+5. INTERACT-NET: An Interactive Interface for Multimedia Machine Learning
    [[[https://ieeexplore.ieee.org/document/10716312][Artigo]]] [[[file:../papers/20240930-interactnet.org][Info]]]
-4. *Neural Implicit Morphing of Face Images*
+6. *Neural Implicit Morphing of Face Images*
    [[https://schardong.github.io/ifmorph][[Página do projeto]]] [[[https://github.com/schardong/ifmorph][Código]]] [[[https://openaccess.thecvf.com/content/CVPR2024/html/Schardong_Neural_Implicit_Morphing_of_Face_Images_CVPR_2024_paper.html][Artigo]]] [[[https://arxiv.org/abs/2308.13888][ArXiv]]] [[[file:../papers/20240619-ifmorph.org][Info]]]
-5. How to train your (neural) dragon
+7. How to train your (neural) dragon
    [[[https://www.lschirmer.com/sibgrapi23][Página do projeto]]] [[[https://colab.research.google.com/drive/1bkTG6lzx-yFwyosp55KkmPOKKizmmpHY?usp=sharing][Código]]] [[[https://drive.google.com/file/d/1uYsp0XaTFWVLnZ8yQp7sS7g22LF7GM6H/view][Artigo]]] [[[file:../papers/20231106-neural-dragon.org][Info]]]
-6. High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers
+8. High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers
    [[[https://openaccess.thecvf.com/content/CVPR2024W/LXCV/html/Schirmer_High-Resolution_Detection_of_Earth_Structural_Heterogeneities_from_Seismic_Amplitudes_using_CVPRW_2024_paper.html?trk=public_post_comment-text][Artigo]]] [[[https://arxiv.org/abs/2404.10170][ArXiv]]] [[file:../papers/20240617-hires-seismic.org][[Info]]]
-7. *Neural Implicit Surface Evolution*
+9. *Neural Implicit Surface Evolution*
    [[[https://dsilvavinicius.github.io/nise][Página do projeto]]] [[[https://github.com/dsilvavinicius/nise][Código]]] [[https://openaccess.thecvf.com/content/ICCV2023/html/Novello_Neural_Implicit_Surface_Evolution_ICCV_2023_paper.html][[Artigo]​]] [[[https://arxiv.org/abs/2201.09636][ArXiv]]] [[[file:../papers/20231004-nise.org][Info]]]
-8. Multiresolution Neural Networks for Imaging
-   [[[https://visgraf.github.io/mrnet-img/][Página do projeto]]] [[[https://ieeexplore.ieee.org/document/9991765][Artigo]]] [[[https://arxiv.org/abs/2208.11813][ArXiv]]] [[[file:../papers/20221024-mrnet-sibgrapi.org][Info]]]
+10. Multiresolution Neural Networks for Imaging
+    [[[https://visgraf.github.io/mrnet-img/][Página do projeto]]] [[[https://ieeexplore.ieee.org/document/9991765][Artigo]]] [[[https://arxiv.org/abs/2208.11813][ArXiv]]] [[[file:../papers/20221024-mrnet-sibgrapi.org][Info]]]
 
 ** Patentes
 1. Method for detecting anomalies in the well and oil reservoir system using artificial intelligence
