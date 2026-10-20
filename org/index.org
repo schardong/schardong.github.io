@@ -24,7 +24,7 @@ I got my Bachelor's degree in Computer Science from UFSM in 2012 and a Master's 
 
 * News
 ** Talk on /Face Biometrics under Attack/ for the PUC-Rio Department of Informatics seminary
-On October 29, 2026, I gave a talk on our recent tutorial "/Biometrics under Attack/", invited by prof. [[https://www.inf.puc-rio.br/~abaffa/profile/][Augusto Baffa]]. The talk was held remotely and the video is hosted on [[https://www.youtube.com/watch?v=vJ4p0VYXg-0][YouTube]]. Slides can be found on the [[https://schardong.github.io/facetrust][facetrust]] project page. Note that the slides are in english, but the talk itself is in portuguese.
+On October 29, 2026, I gave a talk on our recent tutorial "/Biometrics under Attack/", invited by prof. [[https://www.inf.puc-rio.br/~abaffa/profile/][Augusto Baffa]]. The talk was held remotely and the video is hosted on [[https://www.youtube.com/watch?v=vJ4p0VYXg-0][YouTube]]. Slides can be found on [[https://schardong.github.io/facetrust/assets/slides-seminario-di-pucrio.pdf][here]]. Note that the slides are in english, but the talk itself is in portuguese.
 ** NeurIPS 2026 paper
 Our work entitled "/M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals/" was accepted for publication at NeurIPS 2026. It will be presented in Sydney, Australia as a poster. On a related note, my friend and coauthor [[https://dsilvavinicius.github.io][Vinícius da Silva]] was considered as a /Top-reviewer/ at NeurIPS 2026! Go ahead, make his day!
 ** SIBGRAPI 2026 Tutorial

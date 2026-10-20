@@ -25,7 +25,7 @@ Sou bacharel em Ciência da Computação pela UFSM (2012) e mestre em Informáti
 * Notícias
 
 ** Seminário "Quando um rosto é evidência: morphing, marca d’água e confiança em biometria facial" para o Departamento de Informática da PUC-Rio
-Em 20 de outubro, sob convite do prof. [[https://www.inf.puc-rio.br/~abaffa/profile/][Augusto Baffa]], ministrei o seminário sobre o nosso tutorial "/Biometrics under Attack/", publicado no SIBGRAPI 2026. O seminário foi feito remotamente, e o vídeo está disponível no [[https://www.youtube.com/watch?v=vJ4p0VYXg-0][YouTube]]. Os slides desse seminário estão na página do projeto [[https://schardong.github.io/facetrust][facetrust]]. Notem que os slides estão em inglês, mas o seminário em si foi em português.
+Em 20 de outubro, sob convite do prof. [[https://www.inf.puc-rio.br/~abaffa/profile/][Augusto Baffa]], ministrei o seminário sobre o nosso tutorial "/Biometrics under Attack/", publicado no SIBGRAPI 2026. O seminário foi feito remotamente, e o vídeo está disponível no [[https://www.youtube.com/watch?v=vJ4p0VYXg-0][YouTube]]. Os slides desse seminário podem ser encontrados [[https://schardong.github.io/facetrust/assets/slides-seminario-di-pucrio.pdf][aqui]]. Notem que os slides estão em inglês, mas o seminário em si foi em português.
 ** Artigo no NeurIPS 2026
 O nosso artigo "/M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals/" foi aceito para publicação no NeurIPS 2026. Ele será apresentado em Sydney, Austrália no formato de poster. Relacionado a isso, meu amigo e coautor [[https://dsilvavinicius.github.io][Vinícius da Silva]] foi classificado como /Top-reviewer/ dessa conferência! Dê um parabéns a ele!
 ** Tutorial no SIBGRAPI 2026
