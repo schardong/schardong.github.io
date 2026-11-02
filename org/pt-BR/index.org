@@ -23,7 +23,6 @@ Atualmente sou Professor Assistente na Universidade Federal de Santa Maria (UFSM
 Sou bacharel em Ciência da Computação pela UFSM (2012) e mestre em Informática pela mesma universidade (2014), sob orientação do prof. [[http://www.inf.ufsm.br/~pozzer][Cesar Pozzer]]. Em 2018, concluí o doutorado (D.Sc.) em Informática na PUC-Rio, como membro do GALGOS. De 2014 a 2016, trabalhei como desenvolvedor no grupo de Visualização de Reservatórios do Instituto Tecgraf/PUC-Rio, sob a coordenação do prof. [[http://www.inf.puc-rio.br/~celes][Waldemar Celes]]. Em 2016, comecei a trabalhar com o prof. [[https://www.inf.puc-rio.br/~lopes][Hélio Lopes]] (meu orientador desde 2015) e fui coorientado pela profa. [[https://www.inf.puc-rio.br/~simone][Simone Barbosa]] durante o doutorado. Minha posição mais recente foi como Pesquisador no Instituto de Sistemas e Robótica da Universidade de Coimbra, no grupo [[https://visteam.isr.uc.pt/home][VISTEAM]], liderado pelo prof. [[https://home.deec.uc.pt/~nunogon/][Nuno Gonçalves]]. Também colaboro regularmente com os profs. [[https://www.impa.br/~lvelho][Luiz Velho]] e [[https://sites.google.com/site/tiagonovellodebrito][Tiago Novello]], do Visgraf/IMPA.
 
 * Notícias
-
 ** Seminário "Quando um rosto é evidência: morphing, marca d’água e confiança em biometria facial" para o Departamento de Informática da PUC-Rio
 Em 20 de outubro, sob convite do prof. [[https://www.inf.puc-rio.br/~abaffa/profile/][Augusto Baffa]], ministrei o seminário sobre o nosso tutorial "/Biometrics under Attack/", publicado no SIBGRAPI 2026. O seminário foi feito remotamente, e o vídeo está disponível no [[https://www.youtube.com/watch?v=vJ4p0VYXg-0][YouTube]]. Os slides desse seminário podem ser encontrados [[https://schardong.github.io/facetrust/assets/slides-seminario-di-pucrio.pdf][aqui]]. Notem que os slides estão em inglês, mas o seminário em si foi em português.
 ** Artigo no NeurIPS 2026
@@ -50,23 +49,24 @@ Meus interesses de pesquisa atuais envolvem principalmente IA para Computação 
    [[[https://dsilvavinicius.github.io/i3d][Página do projeto]]] [[[https://dsilvavinicius.github.io/i3d][Código]]] [[https://www.sciencedirect.com/science/article/pii/S0097849322001649][[Artigo]]] [[[https://arxiv.org/abs/2201.09263][ArXiv]]] [[[file:../papers/20220913-i3d.org][Info]]]
 
 ** Artigos em conferências
-1. M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals [[[https://dsilvavinicius.github.io/m-plicits/][Página do projeto]]] [[[https://github.com/dsilvavinicius/m-plicits][Código]]] [[[https://arxiv.org/abs/2609.28684][ArXiv]]] [Info]
-2. Biometrics under attack: On trust, provenance and threat robustness [[[https://schardong.github.io/facetrust][Página do projeto]]] [[[https://github.com/schardong/facetrust][Código]]] [Info]
-3. *FLOWING: Implicit Neural Flows for Structure-Preserving Morphing*
+1. M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals [[[https://dsilvavinicius.github.io/m-plicits/][Página do projeto]]] [[[https://github.com/dsilvavinicius/m-plicits][Código]]] [[[https://arxiv.org/abs/2609.28684][ArXiv]]] [[[file:../papers/20261206-m-plicits.org][Info]]]
+2. Biometrics under attack: On trust, provenance and threat robustness [[[https://schardong.github.io/facetrust][Página do projeto]]] [[[https://github.com/schardong/facetrust][Código]]] [[[file:../papers/20260929-biometrics-sibgrapi.org][Info]]]
+3. Learning Diffeomorphic Flows from Shapes to the Sphere [[[file:../papers/20260908-flow-shape-sphere.org][Info]]]
+4. *FLOWING: Implicit Neural Flows for Structure-Preserving Morphing*
    [[[https://schardong.github.io/flowing][Página do projeto]]] [[[https://github.com/schardong/flowing][Código]]] [[[https://arxiv.org/abs/2510.09537][ArXiv]]] [[[file:../papers/20251203-flowing.org][Info]]]
-4. RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images
+5. RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images
    [[[https://openaccess.thecvf.com/content/WACV2025/html/Cruz_RiemStega_Covariance-Based_Loss_for_Print-Proof_Transmission_of_Data_in_Images_WACV_2025_paper.html][Artigo]]] [[[file:../papers/20250226-riemstega.org][Info]]]
-5. INTERACT-NET: An Interactive Interface for Multimedia Machine Learning
+6. INTERACT-NET: An Interactive Interface for Multimedia Machine Learning
    [[[https://ieeexplore.ieee.org/document/10716312][Artigo]]] [[[file:../papers/20240930-interactnet.org][Info]]]
-6. *Neural Implicit Morphing of Face Images*
+7. *Neural Implicit Morphing of Face Images*
    [[https://schardong.github.io/ifmorph][[Página do projeto]]] [[[https://github.com/schardong/ifmorph][Código]]] [[[https://openaccess.thecvf.com/content/CVPR2024/html/Schardong_Neural_Implicit_Morphing_of_Face_Images_CVPR_2024_paper.html][Artigo]]] [[[https://arxiv.org/abs/2308.13888][ArXiv]]] [[[file:../papers/20240619-ifmorph.org][Info]]]
-7. How to train your (neural) dragon
+8. How to train your (neural) dragon
    [[[https://www.lschirmer.com/sibgrapi23][Página do projeto]]] [[[https://colab.research.google.com/drive/1bkTG6lzx-yFwyosp55KkmPOKKizmmpHY?usp=sharing][Código]]] [[[https://drive.google.com/file/d/1uYsp0XaTFWVLnZ8yQp7sS7g22LF7GM6H/view][Artigo]]] [[[file:../papers/20231106-neural-dragon.org][Info]]]
-8. High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers
+9. High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers
    [[[https://openaccess.thecvf.com/content/CVPR2024W/LXCV/html/Schirmer_High-Resolution_Detection_of_Earth_Structural_Heterogeneities_from_Seismic_Amplitudes_using_CVPRW_2024_paper.html?trk=public_post_comment-text][Artigo]]] [[[https://arxiv.org/abs/2404.10170][ArXiv]]] [[file:../papers/20240617-hires-seismic.org][[Info]]]
-9. *Neural Implicit Surface Evolution*
-   [[[https://dsilvavinicius.github.io/nise][Página do projeto]]] [[[https://github.com/dsilvavinicius/nise][Código]]] [[https://openaccess.thecvf.com/content/ICCV2023/html/Novello_Neural_Implicit_Surface_Evolution_ICCV_2023_paper.html][[Artigo]​]] [[[https://arxiv.org/abs/2201.09636][ArXiv]]] [[[file:../papers/20231004-nise.org][Info]]]
-10. Multiresolution Neural Networks for Imaging
+10. *Neural Implicit Surface Evolution*
+    [[[https://dsilvavinicius.github.io/nise][Página do projeto]]] [[[https://github.com/dsilvavinicius/nise][Código]]] [[https://openaccess.thecvf.com/content/ICCV2023/html/Novello_Neural_Implicit_Surface_Evolution_ICCV_2023_paper.html][[Artigo]​]] [[[https://arxiv.org/abs/2201.09636][ArXiv]]] [[[file:../papers/20231004-nise.org][Info]]]
+11. Multiresolution Neural Networks for Imaging
     [[[https://visgraf.github.io/mrnet-img/][Página do projeto]]] [[[https://ieeexplore.ieee.org/document/9991765][Artigo]]] [[[https://arxiv.org/abs/2208.11813][ArXiv]]] [[[file:../papers/20221024-mrnet-sibgrapi.org][Info]]]
 
 ** Patentes
