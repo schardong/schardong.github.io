@@ -3,7 +3,7 @@
 #+VENUE: ECCV Workshop on Geometric Intelligence: From Vision to Scientific Discovery, 2026
 #+SETUPFILE: ../setup.org
 #+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
-#+EXPORT_DATE: 2026-01-01
+#+EXPORT_DATE: 2026-09-06
 
 #+begin_teaser
 [[file:../../res/diff-flows-sphere_geoint2026.png]]
@@ -14,11 +14,11 @@ We study the direct, unsupervised learning of a spherical parametrization of a s
 
 * BibTeX
 #+begin_src bibtex
-@inproceedings{zuzolo2026learning,
-title={Learning Diffeomorphic Flows from Shapes to the Sphere},
-author={Paolo Zuzolo and Jan Ricardo Mussmann and Guilherme Schardong and Tiago Novello and Michael Moeller},
-booktitle={ECCV Workshop on Geometric Intelligence: From Vision to Scientific Discovery},
-year={2026},
-url={https://openreview.net/forum?id=RJLfhQ3wQh}
+@inproceedings{zuzolo:learning-diff-flows:2026,
+  title={Learning Diffeomorphic Flows from Shapes to the Sphere},
+  author={Paolo Zuzolo and Jan Ricardo Mussmann and Guilherme Schardong and Tiago Novello and Michael Moeller},
+  booktitle={ECCV Workshop on Geometric Intelligence: From Vision to Scientific Discovery},
+  year={2026},
+  url={https://openreview.net/forum?id=RJLfhQ3wQh}
 }
 #+end_src

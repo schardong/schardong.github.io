@@ -1,0 +1,27 @@
+#+TITLE: Biometrics under attack: On provenance, trust and threat robustness
+#+AUTHOR: *Guilherme Schardong*, Tiago Novello, Luiz Schirmer, Nuno Gonçalves
+#+VENUE: Proceedings of the 39th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2026
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2026-01-01
+
+#+begin_teaser
+file:../../res/biometrics-ga-alt.png
+#+end_teaser
+
+* Abstract
+Facial biometric systems are increasingly used in identity verification, mobile onboarding, border control, access management, and digital credentials. Their trustworthiness, however, cannot be assessed solely through recognition accuracy. Face images may be manipulated through morphing, retouching, synthetic generation, or replay, while defensive mechanisms such as watermarking and provenance verification may themselves affect biometric performance. This work surveys the main concepts, threats, defenses, and evaluation practices associated with trustworthy facial biometric media. It distinguishes identity, integrity, provenance, and recognition performance as complementary but non-equivalent objectives; reviews classical and learning-based face morphing methods; and discusses the role of watermarking in trustworthy biometric pipelines. We argue for a shift from isolated component evaluation toward integrated trust architectures combining secure acquisition, provenance, manipulation detection, watermarking, and biometric recognition. It concludes by identifying priorities involving identity-preserving watermarking, unified benchmarks, adaptive attack models, privacy-preserving provenance, and broader literacy concerning the capabilities and limitations of facial biometric systems.
+
+* BibTeX
+#+begin_src bibtex
+  @inproceedings{schardong:biometrics:2026,
+    title = {Biometrics under attack: {On} provenance, trust and threat robustness},
+    url = {http://urlib.net/ibi/8JMKD2USNRW34M/4GCEDTS},
+    booktitle = {Proceedings of the 39th {Conference} on {Graphics}, {Patterns} and {Images} ({SIBGRAPI})},
+    publisher = {Conference on Graphics, Patterns and Images, 39. (SIBGRAPI)},
+    author = {Schardong, Guilherme and Novello, Tiago and Schirmer, Luiz and Gonçalves, Nuno},
+    editor = {Hirata, Nina and Ferreira, Nivan and Cousty, Jean and Paulovich, Fernando},
+    year = {2026},
+    keywords = {biometrics, morphing, watermarking.},
+  }
+#+end_src
