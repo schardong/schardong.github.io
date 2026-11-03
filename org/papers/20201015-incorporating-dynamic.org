@@ -1,0 +1,41 @@
+#+TITLE: Incorporating Dynamic Production-Logging Data to the Permeability-Estimation Workflow Using Machine Learning
+#+AUTHOR: Ciro S. Guimaraes, Luiz Schirmer, *Guilherme Schardong*, Abelardo B. Barreto, Helio Lopes
+#+VENUE: SPE Journal, Volume 25, 2020
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2020-10-15
+#+DOI: 10.2118/198954-pa
+
+# #+begin_teaser
+# # TODO: file:../../res/<imagem>.png
+# #+end_teaser
+
+* Abstract
+The objective of this work is to develop and train feedforward artificial neural networks (ANNs) on the forecasting of layer permeability in heterogeneous reservoirs. The results are validated by comparing the model outputs with permeability curves computed from production logging data.
+
+Production logs are used as targets to train the model. A flow-profile interpretation method is used to compute continuous permeability curves free of wellbore skin effects. In addition, segmentation techniques are applied to high-resolution ultrasonic image logs. These logs provide not only the image of the mega- and giga-pore system but can also identify the permeable facies along the reservoir. The image segmentation jointly with other borehole logs provides the necessary features for the network training process.
+
+The proposed neural network focuses on delivering reliable and validated permeability curves. Its development accounts for formation skin factor, as well as nongeological noise usually found in ultrasonic image logs. The procedure is tested on both synthetic and field data sets. The estimations presented herein demonstrate the model's ability to learn nonlinear relationships between geological input variables and reservoir dynamic data even if the actual physical relationship is complex and not known a priori. Although the preprocessing stages of the procedure involve some expertise in data interpretation, the neural-network structure can be easily coded in any programming language, requiring no assumptions on physics in advance.
+
+For the case studies presented in this work, the proposed procedure provides more accurate permeability curves than the ones obtained from conventional methods, which usually fail to predict the permeability measured on drill-stem tests conducted in dual-porosity reservoirs. The novelty of this work is to incorporate dynamic production-logging (PL) data into the permeability-estimation workflow.
+
+Correction Notice: The preprint paper was updated from its originally published version to correct Fig. 17 on page 11. An erratum detailing the change is included in the Supporting Information section below.
+
+* BibTeX
+#+begin_src bibtex
+  @article{guimaraes:perm-est:2020,
+    title={Incorporating Dynamic Production-Logging Data to the Permeability-Estimation Workflow Using Machine Learning},
+    volume={25},
+    ISSN={1930-0220},
+    url={http://dx.doi.org/10.2118/198954-pa},
+    DOI={10.2118/198954-pa},
+    number={05},
+    journal={SPE Journal},
+    publisher={Society of Petroleum Engineers (SPE)},
+    author={Guimaraes, Ciro S. and Schirmer, Luiz and Schardong, Guilherme and
+      Barreto, Abelardo B. and Lopes, Helio},
+    year={2020},
+    month=06,
+    pages={2765–2777}
+  }
+#+end_src

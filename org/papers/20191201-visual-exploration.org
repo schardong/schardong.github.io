@@ -1,0 +1,32 @@
+#+TITLE: Visual exploration of an ensemble of classifiers
+#+AUTHOR: Paula Ceccon Ribeiro, *Guilherme G. Schardong*, Simone D.J. Barbosa, Clarisse Sieckenius de Souza, Hélio Lopes
+#+VENUE: Computers & Graphics, Volume 85, 2019
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2019-12-01
+#+DOI: 10.1016/j.cag.2019.08.012
+
+# #+begin_teaser
+# # TODO: file:../../res/<imagem>.png
+# #+end_teaser
+
+* Abstract
+Inspecting the outputs of classification algorithms is becoming progressively difficult due to the increase in both scale and complexity of both the data and the algorithms. This has led to research efforts to develop new techniques to interpret the behavior of these algorithms and to facilitate the understanding of their results. A common classification approach is the “ensemble of classifiers”, where a set of classifiers c ∈ C is trained on the input data set and the final classification is computed by “voting”, i.e., ranking their results. One of the issues with this approach, however, is that instead of having only one classifier to analyze, now there are |C|, each with its characteristics. Thus, there is a demand for methods that provide insights into the results of an ensemble of classifiers and at the same time allow a detailed analysis of each classifier in the ensemble. Our work proposes to draw on dimensionality reduction techniques to provide visual tools to interpret the results of an ensemble of classifiers, while also giving insights into how each classifier contributes to the final results. Our approach also presents a measure of classification uncertainty by highlighting regions where there is a divergence among the classifiers in the ensemble, allowing one to focus their analysis on these regions. We tested our approach using the Digits MNIST and Fashion MNIST data sets. Through the use of maps that provide an overview of a classifier behavior to instance-based visualizations, we show how our approach can assist in the interpretation of why a specific decision (classification) was made.
+
+* BibTeX
+#+begin_src bibtex
+  @article{ribeiro:visual-exp:2019,
+    title={Visual exploration of an ensemble of classifiers},
+    volume={85},
+    ISSN={0097-8493},
+    url={http://dx.doi.org/10.1016/j.cag.2019.08.012},
+    DOI={10.1016/j.cag.2019.08.012},
+    journal={Computers &amp; Graphics},
+    publisher={Elsevier BV},
+    author={Ribeiro, Paula Ceccon and Schardong, Guilherme G. and
+      Barbosa, Simone D.J. and de Souza, Clarisse Sieckenius and Lopes, Hélio},
+    year={2019},
+    month=12,
+    pages={23–41}
+  }
+#+end_src

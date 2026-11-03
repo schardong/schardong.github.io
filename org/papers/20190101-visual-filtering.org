@@ -1,0 +1,33 @@
+#+TITLE: Visual Filtering Tools and Analysis of Case Groups for Process Discovery
+#+AUTHOR: Sonia Fiol González, Luiz Schirmer, Leonardo Quatrin Campagnolo, Ariane M. B. Rodrigues, *Guilherme G. Schardong*, Rafael França, Mauricio Lana, Gabriel D. J. Barbosa, Simone D. J. Barbosa, Marcus Poggi, Hélio Lopes
+#+VENUE: Lecture Notes in Business Information Processing, 2019
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2019-01-01
+#+DOI: 10.1007/978-3-030-26169-6_15
+
+# #+begin_teaser
+# # TODO: file:../../res/<imagem>.png
+# #+end_teaser
+
+* Abstract
+Dealing with average-sized event logs is considered a challenging task in process mining, in order to give value to event log data created by a wide variety of systems. An event log consists of a sequence of events for every case that was handled by the system. Discovery algorithms proposed in the literature work well in specific cases, but they usually fail in generic ones. Furthermore, there is no evidence that those existing strategies can handle logs with a large number of variants. We lack a generic approach to allow experts to explore event log data and decompose information into a series of smaller problems, to identify not only outliers, but also relations between the analyzed cases. In this chapter we propose a visual approach for filtering processes based on a low dimensionality representation of cases, a dissimilarity function based on both case attributes and case paths, and the use of entropy and silhouette to evaluate the uncertainty and quality, respectively, of each subset of cases. For each subset of cases, it is possible to reconstruct and evaluate each process model. Those contributions can be combined in an interactive tool to support process discovery. To demonstrate our tool, we use the event log from BPI Challenge 2017.
+
+* BibTeX
+#+begin_src bibtex
+  @inbook{gonzalez:vfilter:2019,
+    title={Visual Filtering Tools and Analysis of Case Groups for Process Discovery},
+    ISBN={9783030261696},
+    ISSN={1865-1356},
+    url={http://dx.doi.org/10.1007/978-3-030-26169-6_15},
+    DOI={10.1007/978-3-030-26169-6_15},
+    booktitle={Enterprise Information Systems}
+    publisher={Springer International Publishing},
+    author={González, Sonia Fiol and Schirmer, Luiz and Campagnolo, Leonardo Quatrin and
+      Rodrigues, Ariane M. B. and Schardong, Guilherme G. and França, Rafael and
+      Lana, Mauricio and Barbosa, Gabriel D. J. and Barbosa, Simone D. J. and
+      Poggi, Marcus and Lopes, Hélio},
+    year={2019},
+    pages={303–323}
+  }
+#+end_src

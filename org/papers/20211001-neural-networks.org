@@ -1,0 +1,30 @@
+#+TITLE: Neural Networks for Implicit Representations of 3D Scenes
+#+AUTHOR: Luiz Schirmer, *Guilherme Schardong*, Vinicius da Silva, Helio Lopes, Tiago Novello, Daniel Yukimura, Thales Magalhaes, Hallison Paz, Luiz Velho
+#+VENUE: 2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2021
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2021-10-01
+#+DOI: 10.1109/sibgrapi54419.2021.00012
+
+# #+begin_teaser
+# # TODO: file:../../res/<imagem>.png
+# #+end_teaser
+
+* Abstract
+This survey presents methods that use neural networks for implicit representations of 3D geometry — neural implicit functions. We explore the different aspects of neural implicit functions for shape modeling and synthesis. We aim to provide a theoretical analysis of 3D shape reconstruction using deep neural networks and introduce a discussion between researchers interested in this research field.
+
+* BibTeX
+#+begin_src bibtex
+  @inproceedings{schirmer:inr-sib:2021,
+    title={Neural Networks for Implicit Representations of 3D Scenes},
+    url={http://dx.doi.org/10.1109/sibgrapi54419.2021.00012},
+    DOI={10.1109/sibgrapi54419.2021.00012},
+    booktitle={2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, publisher={IEEE},
+    author={Schirmer, Luiz and Schardong, Guilherme and da Silva, Vinicius and
+      Lopes, Helio and Novello, Tiago and Yukimura, Daniel and Magalhaes, Thales and
+      Paz, Hallison and Velho, Luiz},
+    year={2021},
+    month=10,
+    pages={17–24}
+  }
+#+end_src

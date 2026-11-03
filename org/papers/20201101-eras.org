@@ -1,0 +1,32 @@
+#+TITLE: Eras: Improving the quality control in the annotation process for Natural Language Processing tasks
+#+AUTHOR: Jonatas S. Grosman, Pedro H.T. Furtado, Ariane M.B. Rodrigues, *Guilherme G. Schardong*, Simone D.J. Barbosa, Hélio C.V. Lopes
+#+VENUE: Information Systems, Volume 93, 2020
+#+SETUPFILE: ../setup.org
+#+html_head: <link rel="stylesheet" href="../css/tufte.css" type="text/css" />
+#+EXPORT_DATE: 2020-11-01
+#+DOI: 10.1016/j.is.2020.101553
+
+# #+begin_teaser
+# # TODO: file:../../res/<imagem>.png
+# #+end_teaser
+
+* Abstract
+The increasing amount of valuable, unstructured textual information poses a major challenge to extract value from those texts. We need to use NLP (Natural Language Processing) techniques, most of which rely on manually annotating a large corpus of text for its development and evaluation. Creating a large annotated corpus is laborious and requires suitable computational support. There are many annotation tools available, but their main weaknesses are the absence of data management features for quality control and the need for a commercial license. As the quality of the data used to train an NLP model directly affects the quality of the results, the quality control of the annotations is essential. In this paper, we introduce ERAS, a novel web-based text annotation tool developed to facilitate and manage the process of text annotation. ERAS includes not only the key features of current mainstream annotation systems but also other features necessary to improve the curation process, such as the inter-annotator agreement, self-agreement and annotation log visualization, for annotation quality control. ERAS also implements a series of features to improve the customization of the user’s annotation workflow, such as: random document selection, re-annotation stages, and warm-up annotations. We conducted two empirical studies to evaluate the tool’s support to text annotation, and the results suggest that the tool not only meets the basic needs of the annotation task but also has some important advantages over the other tools evaluated in the studies. ERAS is freely available at https://github.com/grosmanjs/eras.
+
+* BibTeX
+#+begin_src bibtex
+  @article{grosman:eras:2020,
+    title={Eras: Improving the quality control in the annotation process for Natural Language Processing tasks},
+    volume={93},
+    ISSN={0306-4379},
+    url={http://dx.doi.org/10.1016/j.is.2020.101553},
+    DOI={10.1016/j.is.2020.101553},
+    journal={Information Systems},
+    publisher={Elsevier BV},
+    author={Grosman, Jonatas S. and Furtado, Pedro H.T. and Rodrigues, Ariane M.B. and
+      Schardong, Guilherme G. and Barbosa, Simone D.J. and Lopes, Hélio C.V.},
+    year={2020},
+    month=11,
+    pages={101553}
+  }
+#+end_src
