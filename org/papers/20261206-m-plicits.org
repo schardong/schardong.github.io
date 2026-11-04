@@ -20,7 +20,7 @@ Encoding input coordinates with sinusoidal functions into multi-layer perceptron
       Schardong, Guilherme and Schirmer, Luiz and Ara{\'u}jo, Andr{\'e} and
       Gon{\c{c}}alves, Nuno and Lopes, H{\'e}lio and Raposo, Alberto and
       Velho, Luiz and Novello, Tiago},
-    booktitle={Advances in Neural Information Processing Systems},
+    booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
     year={2026}
   }
 #+end_src
