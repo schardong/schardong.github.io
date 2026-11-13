@@ -24,7 +24,7 @@ I got my Bachelor's degree in Computer Science from UFSM in 2012 and a Master's 
 
 * News
 ** Talk at ISR, University of Coimbra
-On November 11, 2026, I gave a talk entitled "/When a Face Is Evidence: Morphing, Watermarking, and Trust in Facial Biometrics/" based on our recent SIBGRAPI tutorial. Due to the extreme weather, the talk was moved from inplace at ISR to online.
+On November 11, 2026, I gave a talk entitled "/When a Face Is Evidence: Morphing, Watermarking, and Trust in Facial Biometrics/" based on our recent SIBGRAPI tutorial, invited by prof. Nuno Gonçalves. Due to the extreme weather conditions in Portugal, the talk was moved from inplace at ISR to an online format.
 ** Talk on /Face Biometrics under Attack/ for the PUC-Rio Department of Informatics seminary
 On October 29, 2026, I gave a talk on our recent tutorial "/Biometrics under Attack/", invited by prof. [[https://www.inf.puc-rio.br/~abaffa/profile/][Augusto Baffa]]. The talk was held remotely and the video is hosted on [[https://www.youtube.com/watch?v=vJ4p0VYXg-0][YouTube]]. Slides can be found on [[https://schardong.github.io/facetrust/assets/slides-seminario-di-pucrio.pdf][here]]. Note that the slides are in english, but the talk itself is in portuguese.
 ** NeurIPS 2026 paper
